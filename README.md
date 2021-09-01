@@ -1,2 +1,2 @@
 # TestUnresolvedReference
-Depicts Unresolver Reference erro rin Android Studio AF
+Depicts Unresolver Reference error in Android Studio Arctic Fox
